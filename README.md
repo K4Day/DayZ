@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DayZ
 
-You can use the [editor on GitHub](https://github.com/K4Day/DayZ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+DayZ is an open world survival video game in development by Bohemia Interactive. It is the standalone successor of the mod of the same name. The game was released for Microsoft Windows via early access on Steam in December 2013, and is in early alpha testing.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
